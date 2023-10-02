@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2021 - , Renmin University of China, Master of Medicine
+* 2016 - 2021 Zhejiang University, Bachelor of Medicine
+* 2017 - 2021 Zhejiang University, Minor in English
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Teaching Assistant
+  * Renmin University of China
+  * Duties included: Assistance in homework correction and answering questions
+  * Supervisor: Prof. Hao Mei
   
 Skills
 ======
@@ -54,6 +49,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Teaching AND WORK EXPERIENCE
 ======
-* Currently signed in to 43 different slack teams
+* 2023.9 - , Statistics at Renmin University of China, Teaching Assistant
+* 2022.9 - 2023.6, Mathematical Statistics, Biostatistics at Renmin University of China, Teaching Assistant
+* 2021.4 - 2021.6, Xihu District Center for Disease Control and Prevention, Intern
+* 2019.7 - 2019.9, Zhejiang Provincial People’s Hospital, Intern
