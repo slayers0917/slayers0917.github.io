@@ -10,18 +10,21 @@ redirect_from:
 
 My name is Yechi Zhang, a second-year master’s student from Renmin University of China, majoring in Epidemiology and Health Statistics. I will graduate in June 2024. And I got my bachelor degree of medicine at Zhejiang University in 2021. 
 
-Research
+Education
 ======
-I have conducted some research on the field of epidemiology, causal inference methodologies and the related application study. And I am eager to apply the causal inference methods in the field of epidemiology further. My research focus during my undergraduate study at Zhejiang University was on chronic disease epidemiology. Currently, my research interests at Renmin University of China lie in developing and applying causal inference methods. I have been conducting some methodological research on semiparametric estimation, instrumental variables, missing data, high-dimensional data analysis and mediation analysis. I participate in three journal papers, Identification and Estimation of Spillover Effects with Invalid Instrumental Variables and Multiply Robust Estimation of Causal Effects Using Linked Data as the first-author, and Semiparametric Causal Mediation Analysis Based on Sufficient Dimension Reduction as the second-author. I am also experienced in applied research on Mendelian randomization based on GWAS summary data, in which I investigated the bidirectional causal relationship between COVID-19 and COPD.
 
-Publication
+
+Research Interest
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Causal Inference; Epidemiology; Robust Estimation; Instrumental Variables; Mediation Analysis; Transporta- bility
+
+Research Experience
+======
+I have conducted some research on the field of epidemiology, causal inference methodologies and the related application study. And I am eager to apply the causal inference methods in the field of epidemiology further. My research focus during my undergraduate study at Zhejiang University was on chronic disease epidemiology. Currently, my research interests at Renmin University of China lie in developing and applying causal inference methods. 
+
+I have been conducting some methodological research on semiparametric estimation, instrumental variables, missing data, high-dimensional data analysis and mediation analysis. I participate in three journal papers, Identification and Estimation of Spillover Effects with Invalid Instrumental Variables and Multiply Robust Estimation of Causal Effects Using Linked Data as the first-author, and Semiparametric Causal Mediation Analysis Based on Sufficient Dimension Reduction as the second-author. I am also experienced in applied research on Mendelian randomization based on GWAS summary data, in which I investigated the bidirectional causal relationship between COVID-19 and COPD.
+
+
 
 Site-wide configuration
 ------
