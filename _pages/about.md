@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yechi Zhang, a second-year master’s student from Renmin University of China, majoring in Epidemiology and Health Statistics. I will graduate in June 2024. And I got my bachelor degree of medicine at Zhejiang University in 2021. 
+My name is Yechi Zhang, a second-year master’s student from Renmin University of China, majoring in Epidemiology and Health Statistics. I will graduate in June 2024. And I got my bachelor degree of medicine at Zhejiang University in 2021. And I'm Jiapeng Liu's girl friend. 
 
 Research Interest
 ======
