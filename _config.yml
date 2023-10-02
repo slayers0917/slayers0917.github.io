@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yechi Zhang"
 description              : &description "a third year postgraduate student"
