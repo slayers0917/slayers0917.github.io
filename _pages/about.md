@@ -26,5 +26,8 @@ I have conducted some research on the field of epidemiology, causal inference me
 
 I have been conducting some methodological research on semiparametric estimation, instrumental variables, missing data, high-dimensional data analysis and mediation analysis. I participate in three journal papers, Identification and Estimation of Spillover Effects with Invalid Instrumental Variables and Multiply Robust Estimation of Causal Effects Using Linked Data as the first-author, and Semiparametric Causal Mediation Analysis Based on Sufficient Dimension Reduction as the second-author. I am also experienced in applied research on Mendelian randomization based on GWAS summary data, in which I investigated the bidirectional causal relationship between COVID-19 and COPD.
 
+News
+======
+Applying for a PhD.
 
 
