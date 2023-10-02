@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yechi Zhang"
   avatar           : "photo1.png"
-  bio              : "A third year postgraduate student"
-  location         : "China Beijing, Renmin University of China"
-  employer         : 
+  bio              : "Third year postgraduate student"
+  location         : "China Beijing"
+  employer         : "Renmin University of China"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "Yechi@ruc.edu.cn"
