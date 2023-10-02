@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate student.
+My name is Yechi Zhang, a second-year master’s student from Renmin University of China, majoring in Epidemiology and Health Statistics. I will graduate in June 2024. And I got my bachelor degree of medicine at Zhejiang University in 2021. 
 
-A data-driven personal website
+Research
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I have conducted some research on the field of epidemiology, causal inference methodologies and the related application study. And I am eager to apply the causal inference methods in the field of epidemiology further. My research focus during my undergraduate study at Zhejiang University was on chronic disease epidemiology. Currently, my research interests at Renmin University of China lie in developing and applying causal inference methods. I have been conducting some methodological research on semiparametric estimation, instrumental variables, missing data, high-dimensional data analysis and mediation analysis. I participate in three journal papers, Identification and Estimation of Spillover Effects with Invalid Instrumental Variables and Multiply Robust Estimation of Causal Effects Using Linked Data as the first-author, and Semiparametric Causal Mediation Analysis Based on Sufficient Dimension Reduction as the second-author. I am also experienced in applied research on Mendelian randomization based on GWAS summary data, in which I investigated the bidirectional causal relationship between COVID-19 and COPD.
 
 Publication
 ======
