@@ -5,8 +5,6 @@ permalink: /Awards/
 author_profile: true
 ---
 
-Honors&Awards
-=====
 * 2021 - 2022, First-Class Scholarship, Renmin University of China.
 * 2020 - 2021, Second-Class Scholarship, Renmin University of China.
 * 2019 - 2020, First-Class Scholarship for Outstanding Students, Zhejiang University (TOP 5%).
