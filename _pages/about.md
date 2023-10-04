@@ -16,7 +16,7 @@ Causal Inference; Epidemiology; Robust Estimation; Instrumental Variables; Media
 
 Education
 ======
-* 2021 - now, Renmin University of China, Master of Medicine
+* 2021 - present, Renmin University of China, Master of Medicine
 * 2016 - 2021, Zhejiang University, Bachelor of Medicine
 * 2017 - 2021, Zhejiang University, Minor in English
 
