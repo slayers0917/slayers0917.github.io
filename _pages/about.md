@@ -12,7 +12,7 @@ My name is Yechi Zhang, a second-year master’s student from [Renmin University
 
 Research Interest
 ======
-Causal Inference; Epidemiology; Robust Estimation; Instrumental Variables; Mediation Analysis; Transporta- bility
+Causal Inference; Epidemiology; Robust Estimation; Instrumental Variables; Mediation Analysis; Transportability
 
 Education
 ======
